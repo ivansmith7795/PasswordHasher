@@ -12,7 +12,7 @@ namespace PasswordHasher
     {
         static void Main(string[] args)
         {
-            byte[] password = Encoding.UTF8.GetBytes("gibson1973$");
+            byte[] password = Encoding.UTF8.GetBytes("yourpasswordhere");
             byte[] salt = getSalt();
 
             byte[] saltedHash = GenerateSaltedHash(password, salt);
