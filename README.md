@@ -1,2 +1,2 @@
 # PasswordHasher
-Wednesday, August 21, 2019
+Friday, September 6, 2019
