@@ -1,2 +1,2 @@
 # PasswordHasher
-Saturday, December 19, 2020
+Thursday, January 7, 2021
